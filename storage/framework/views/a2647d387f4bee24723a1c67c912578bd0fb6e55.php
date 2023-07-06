@@ -1,0 +1,1 @@
+<img src="/images/logo_ex-hoes.png" style="height: 40px;"/><?php /**PATH C:\laragon\www\shamo-backend\resources\views/vendor/jetstream/components/application-logo.blade.php ENDPATH**/ ?>

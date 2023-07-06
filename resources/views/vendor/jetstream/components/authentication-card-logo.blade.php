@@ -1,3 +1,3 @@
 <a href="/">
-    <img src="/images/logo.svg" style="height: 30px;"/>
+    <img src="/images/logo_ex-hoes.png" style="height: 40px;"/>
 </a>
